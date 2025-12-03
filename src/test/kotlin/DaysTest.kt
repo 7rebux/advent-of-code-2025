@@ -15,6 +15,7 @@ class DaysTest {
   fun answers() = listOf(
     Answer(Day01, 1129, 6638),
     Answer(Day02, 30599400849, 46270373595),
+    Answer(Day03, 17100, 170418192256861),
   ).map {
     DynamicTest.dynamicTest("Day ${it.day.number} - ${it.day.title}") {
       if (it.day.partOneTestExamples.isNotEmpty()) {
