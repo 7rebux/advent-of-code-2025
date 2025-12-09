@@ -1,8 +1,8 @@
 # 🎄 [Advent Of Code 2025](https://adventofcode.com/2025)
 
-![Current day](https://img.shields.io/badge/Day-7-blue)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-14-yellow)
-![Days completed](https://img.shields.io/badge/Days%20Completed-7-red)
+![Current day](https://img.shields.io/badge/Day-8-blue)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-16-yellow)
+![Days completed](https://img.shields.io/badge/Days%20Completed-8-red)
 
 ### Daily Solution Index
 
@@ -15,3 +15,4 @@
 | ✔ 05 | Cafeteria           |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nilsosswald/aoc/days/Day05.kt) |
 | ✔ 06 | Trash Compactor     |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nilsosswald/aoc/days/Day06.kt) |
 | ✔ 07 | Laboratories        |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nilsosswald/aoc/days/Day07.kt) |
+| ✔ 08 | Playground          |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nilsosswald/aoc/days/Day08.kt) |
