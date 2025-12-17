@@ -1,8 +1,7 @@
 # 🎄 [Advent Of Code 2025](https://adventofcode.com/2025)
 
-![Current day](https://img.shields.io/badge/Day-9-blue)
-![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-17-yellow)
-![Days completed](https://img.shields.io/badge/Days%20Completed-8-red)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-21/24-yellow)
+![Days completed](https://img.shields.io/badge/Days%20Completed-10/12-red)
 
 ### Daily Solution Index
 
@@ -17,3 +16,6 @@
 | ✔ 07 | Laboratories        |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nilsosswald/aoc/days/Day07.kt) |
 | ✔ 08 | Playground          |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nilsosswald/aoc/days/Day08.kt) |
 | x 09 | Movie Theater       |   ⭐    |   ❌    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nilsosswald/aoc/days/Day09.kt) |
+| x 10 | Factory             |   ❌    |   ❌    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nilsosswald/aoc/days/Day10.kt) |
+| ✔ 11 | Reactor             |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nilsosswald/aoc/days/Day11.kt) |
+| ✔ 12 | Christmas Tree Farm |   ⭐    |   ⭐    | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/nilsosswald/aoc/days/Day12.kt) |
