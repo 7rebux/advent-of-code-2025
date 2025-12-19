@@ -5,6 +5,7 @@ import org.junit.jupiter.api.DynamicTest
 import org.junit.jupiter.api.TestFactory
 
 class DaysTest {
+
   data class Answer<O, T>(
     val day: Day<O, T>,
     val partOne: O,
@@ -22,6 +23,7 @@ class DaysTest {
     Answer(Day07, 1640, 40999072541589),
     Answer(Day08, 83520, 1131823407),
     Answer(Day09, 4759930955, 0),
+    Answer(Day10, 500, 0),
     Answer(Day11, 652, 362956369749210),
     Answer(Day12, 567, null),
   ).map {

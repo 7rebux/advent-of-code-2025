@@ -3,6 +3,7 @@ package de.nilsosswald.aoc
 import de.nilsosswald.aoc.days.*
 
 object Main {
+
   private val days = listOf<Day<*, *>>(
     Day01,
     Day02,
@@ -13,6 +14,7 @@ object Main {
     Day07,
     Day08,
     Day09,
+    Day10,
     Day11,
     Day12,
   )
